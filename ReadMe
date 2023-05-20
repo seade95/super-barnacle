@@ -1,6 +1,6 @@
 #
 
-intro to github
+intro to github:
 
 echo "# super-barnacle" >> README.md
 git init
