@@ -1,0 +1,11 @@
+#
+
+intro to github
+
+echo "# super-barnacle" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/seade95/super-barnacle.git
+git push -u origin main
